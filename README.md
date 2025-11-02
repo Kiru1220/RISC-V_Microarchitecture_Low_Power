@@ -157,8 +157,7 @@ The design has been validated with various test programs including:
 
 ## Author
 
-Usha Kiran H N  
-VLSI Design & Computer Architecture Research  
+Usha Kiran H N   
 Email: ushakiru20@gmail.com
 
 ## License
